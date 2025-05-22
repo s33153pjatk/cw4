@@ -31,3 +31,4 @@ public class Klient {
             return listaRezerwacji.contains(w);
         }
     }
+
